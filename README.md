@@ -81,7 +81,7 @@ Symptom of the problem:
 
  [abc@localhost rpm-4.8.1]$ /usr/local/bin/rpm --dbpath  /usr/local/var/lib/rpm/ -e wireless-tools
  
- error: Failed dependencies:
+         error: Failed dependencies:
  
          libiw.so.29 is needed by (installed) rhpl-0.218-1.i386
 
