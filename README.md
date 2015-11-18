@@ -11,13 +11,13 @@ Sympton of the problem:
 
  [abc@localhost rpm-4.8.1]$ /bin/rpm -q --whatrequires wireless-tools
  
- no package requires wireless-tools
+          no package requires wireless-tools
 
  -----------------------------------------------------------------------------
  
  [abc@localhost rpm-4.8.1]$ /bin/rpm -e wireless-tools
  
- error: Failed dependencies:
+          error: Failed dependencies:
  
          libiw.so.29 is needed by (installed) rhpl-0.218-1.i386
 
