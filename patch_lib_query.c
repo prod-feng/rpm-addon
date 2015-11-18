@@ -25,3 +25,5 @@
 
          rpmpsPrint(NULL, ps);
      break;
+
+...
