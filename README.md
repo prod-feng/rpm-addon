@@ -1,7 +1,7 @@
 # rpm-addon
 Fedora 10, RPM package management, enhance "whatrequires" option ,coding, C
 
-Solution for Non-full dependency information by query with --whatrequires option
+Solution for non-accurate dependency information by query with --whatrequires option
 
 rpm (version 4.8.1) cannot provide fully accurate dependency information when query with --whatrequires option. July, 2010.
 
